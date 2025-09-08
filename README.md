@@ -1,5 +1,5 @@
 # Real-Time-Driver-Drowsiness-and-Attention-Monitoring-
-# AIS-184 Driver Drowsiness & Attention Warning System (DDAWS) — Laptop Camera Demo
+# AIS-184 Driver Drowsiness & Attention Warning System
 
 ⚠️ **DISCLAIMER**  
 This is a **research/demo** implementation inspired by **AIS-184 (Driver Drowsiness and Attention Warning Systems for M, N2, N3 vehicles)**.  
