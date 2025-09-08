@@ -48,13 +48,12 @@ Python \textbf{3.9+} is recommended. To install the required Python packages, ru
 Run the following command:
 
 
-python ais184_ddaws_demo.py --camera 0
+3. python DDAWS.py --camera 0
 
 
-\subsection{Example with Custom Thresholds}
 
 You can run with custom EAR, MAR, and PERCLOS thresholds as follows:
 
-python ais184_ddaws_demo.py --camera 0 --ear 0.25 --mar 0.7 --perclos-w 90
+python DDAWS.py --camera 0 --ear 0.25 --mar 0.7 --perclos-w 90
 
 
