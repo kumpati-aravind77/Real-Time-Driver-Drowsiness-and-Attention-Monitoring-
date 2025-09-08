@@ -29,9 +29,6 @@ This project demonstrates how driver drowsiness and inattention can be approxima
 git clone https://github.com/your-username/Real-Time-Driver-Drowsiness-and-Attention-Monitoring.git
 cd Real-Time-Driver-Drowsiness-and-Attention-Monitoring
 
-\section{Installation}
-
-\subsection{Install Dependencies}
 
 Python \textbf{3.9+} is recommended. To install the required Python packages, run:
 
