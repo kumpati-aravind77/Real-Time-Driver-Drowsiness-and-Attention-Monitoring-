@@ -36,34 +36,25 @@ cd Real-Time-Driver-Drowsiness-and-Attention-Monitoring
 Python \textbf{3.9+} is recommended. To install the required Python packages, run:
 
 
-pip install opencv-python mediapipe numpy playsound==1.2.2
+1. pip install opencv-python mediapipe numpy playsound==1.2.2
 
 
 \noindent On Linux systems, you may also need to install the following dependency:
 
 
-sudo apt-get install libasound2
+2. sudo apt-get install libasound2
 
-
-
-\section{Usage}
-
-\subsection{Run with Laptop/Webcam}
 
 Run the following command:
 
-\begin{verbatim}
-python ais184_ddaws_demo.py --camera 0
-\end{verbatim}
 
-\noindent Press \textbf{q} to quit. \\
-Works best in \textbf{good lighting conditions}.
+python ais184_ddaws_demo.py --camera 0
+
 
 \subsection{Example with Custom Thresholds}
 
 You can run with custom EAR, MAR, and PERCLOS thresholds as follows:
 
-\begin{verbatim}
 python ais184_ddaws_demo.py --camera 0 --ear 0.25 --mar 0.7 --perclos-w 90
-\end{verbatim}
+
 
