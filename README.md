@@ -35,15 +35,15 @@ cd Real-Time-Driver-Drowsiness-and-Attention-Monitoring
 
 Python \textbf{3.9+} is recommended. To install the required Python packages, run:
 
-\begin{verbatim}
+
 pip install opencv-python mediapipe numpy playsound==1.2.2
-\end{verbatim}
+
 
 \noindent On Linux systems, you may also need to install the following dependency:
 
-\begin{verbatim}
+
 sudo apt-get install libasound2
-\end{verbatim}
+
 
 
 \section{Usage}
